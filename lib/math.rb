@@ -24,6 +24,10 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
+<<<<<<< HEAD
  root = Math.sqrt(num)
+=======
+ root = num.sqrt
+>>>>>>> f98494eb13b23000a109e26232e27d08bf63282a
  return root
 end
